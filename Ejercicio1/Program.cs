@@ -1,0 +1,1 @@
+﻿//Crear una función que reciba dos números y devuelva la suma de ambos.
