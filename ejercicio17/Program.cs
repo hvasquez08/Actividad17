@@ -14,3 +14,4 @@ double PromedioGrupo(int cantidad)
     }
     return suma / cantidad;
 }
+
