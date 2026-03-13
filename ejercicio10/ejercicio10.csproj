@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\ejercicio10\ejercicio10.csproj" />
-  </ItemGroup>
-
 </Project>
